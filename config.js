@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Te gusto?",                                    // First interaction
             yesBtn: "Sí",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "No me gustasm, Te amo! ❤️"           // Secret hover message
+            secretAnswer: "No me gustas, Te amo! ❤️"           // Secret hover message
         },
         second: {
             text: "Cuanto me quieres?",                          // For the love meter
@@ -68,7 +68,7 @@ const CONFIG = {
     // Adjust these if you want faster/slower animations
     animations: {
         floatDuration: "15s",           // How long it takes hearts to float up (10-20s recommended)
-        floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
+        floatDistance: "70px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
     },
